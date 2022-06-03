@@ -1,0 +1,16 @@
+{
+    "vehicles": [
+        {
+            "vehicle_id": "townhall",
+            "start_address": {
+                "location_id": "berlin",
+                "lon": 13.406,
+                "lat": 52.537
+            }
+        }
+    ],
+    "services": [
+        
+
+    ]
+}

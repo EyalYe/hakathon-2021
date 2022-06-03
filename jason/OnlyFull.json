@@ -1,0 +1,32 @@
+{
+    "vehicles": [
+        {
+            "vehicle_id": "townhall",
+            "start_address": {
+                "location_id": "berlin",
+                "lon": 13.406,
+                "lat": 52.537
+            }
+        }
+    ],
+    "services": [
+        {
+            "id": "000",
+            "name": "full",
+            "address": {
+                "location_id": "001",
+                "lon": 9.999,
+                "lat": 53.552
+            }
+        },
+        {
+            "id": "001",
+            "name": "full",
+            "address": {
+                "location_id": "002",
+                "lon": 11.57,
+                "lat": 48.145
+            }
+        }
+    ]
+}
